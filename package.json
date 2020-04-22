@@ -1,0 +1,24 @@
+{
+  "name": "feiyu",
+  "version": "1.0.1",
+  "description": "飞羽。输出随机的名字，分类有动物，植物，动漫。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wdpm/feiyu.git"
+  },
+  "keywords": [
+    "feiyu"
+  ],
+  "bin": {
+    "feiyu": "bin/feiyu.js"
+  },
+  "author": "wdpm <1137299673@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
